@@ -1,0 +1,32 @@
+.main_width{
+  width: 65%;
+  margin: 0 auto;
+}
+.navbar{
+  height: 100px;
+  display: flex;
+  /* background-color: blue; */
+}
+
+.icon{
+  width: 18%;
+}
+
+.header_text{
+  width: 30%;
+}
+.header-icon{
+  width: 45%;
+  margin: auto 0;
+}
+.f_right{
+  float: right;
+}
+.b-img{
+  height: 300px;
+  width: 100%;
+}
+.main_image{
+  width: 75%;
+  margin: 0 auto;
+}
